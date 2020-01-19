@@ -8,8 +8,8 @@ To run code type,
 
 where, assembler.py is a driver code actions are (-s,-l,-i,-lst) 
 
--s -> For symbol table 
--l -> For literal table 
+-s -> For symbol table   
+-l -> For literal table    
 -i -> For intermediate table 
 
 When -i option is selected, 
