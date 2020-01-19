@@ -64,3 +64,4 @@ def hex2(arg1):
                     a = a[2:]
                     temp2 += str(a)
     return temp2
+
