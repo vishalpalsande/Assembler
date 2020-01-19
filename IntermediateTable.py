@@ -23,3 +23,4 @@ def IntermediateTable(list1,symbol_table,label_table,lit_table):
         for i in range(len(list2)):
             list2[i] = ' '.join(list2[i])  + '\n'
             f.write(list2[i])
+            
