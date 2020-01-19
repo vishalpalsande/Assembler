@@ -31,3 +31,4 @@ lp2:	mov eax, str1
 	add eax, ecx
 	jmp lp2
 	
+	
