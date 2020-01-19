@@ -1,0 +1,33 @@
+section .data
+sym#1 db lit#1
+sym#2 db lit#2
+sym#3 db lit#3
+sym#4 db lit#4
+
+section .bss
+sym#5 resd 1
+sym#6 resq 2
+sym#7 resb 1
+
+section .text
+global label#1
+
+label#1
+mov reg#1, lit#9
+add reg#1, reg#4
+mov reg#4, lit#6
+mov reg#1, reg#4
+mov reg#1, reg#1
+sub reg#1, reg#2
+lp1:	add reg#1, lit#9
+add reg#4, lit#9
+sub reg#4, lit#9
+sub reg#8, lit#10
+je label#2
+sub reg#1, lit#11
+lp2:	mov reg#1, sym#1
+mov reg#2, sym#3
+mov reg#4, sym#4
+add reg#1, reg#2
+jmp label#3
+
