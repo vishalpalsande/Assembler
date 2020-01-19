@@ -5,5 +5,6 @@ def validation(action):
     else:
         print("Enter valid arguments.   (-s, -l, -i, -lst)")
         exit()
+        
 
 
