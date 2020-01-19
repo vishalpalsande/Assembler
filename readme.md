@@ -6,7 +6,7 @@ To run code type,
         python3 assembler.py {action} {filename}
 
 
-where, assembler.py is a driver code actions are (-s,-l,-i,-lst) 
+where, assembler.py is a driver code actions are (-s,-l,-i) 
 
 -s -> For symbol table   
 -l -> For literal table    
