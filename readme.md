@@ -1,14 +1,15 @@
- This is one pass Assembler written in python
-
- this assembler generates  files : 
+ This is one pass Assembler written in python.
+ 
+ this assembler generates files : 
  1.Symbol Table
  
  2.Literal Table
  
  3.Intermediate Code
 
-assembler.py is a main driver code. 
-To run code type,
+> assembler.py is a main driver code. 
+  
+  To run code type,
 
         python3 assembler.py {action} {filename}
 
