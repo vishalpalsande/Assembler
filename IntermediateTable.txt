@@ -30,4 +30,3 @@ mov reg#2, sym#3
 mov reg#4, sym#4
 add reg#1, reg#2
 jmp label#3
-
