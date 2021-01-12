@@ -1,14 +1,16 @@
- # Assembler
+# Assembler
  
- This is One Pass Assembler. Design and implementation of a tool to generate symbol table, literal table and intermediate code from x86 assembly code.
- The Assembly program divided into three parts - section .data, section .bss & section .text. 
- The assembly file in read mode and fetch the record line by line till reach to end of file then record split into three groups.
+This is One Pass Assembler. Design and implementation of a tool to generate symbol table, literal table and intermediate code from x86 assembly code.
+The Assembly program divided into three parts - section .data, section .bss & section .text. 
+The assembly file in read mode and fetch the record line by line till reach to end of file then record split into three groups.
  
- >## This assembler generates files : 
- #### 1.Symbol Table
- #### 2.Literal Table
- #### 3.Intermediate Code
-
+#
+ 
+>## This assembler generates files : 
+#### 1.Symbol Table
+#### 2.Literal Table
+#### 3.Intermediate Code
+ 
 #
 
 >## Project Statistic:
