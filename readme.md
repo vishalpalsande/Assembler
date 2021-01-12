@@ -7,19 +7,19 @@
 
 > assembler.py is a main driver code. 
   
-  To run code type,
+  To run this code type command,
 
         python3 assembler.py {action} {filename}
 
 
-where, assembler.py is a driver code actions are (-s,-l,-i) 
+where, assembler.py is a driver code actions are ( -s ,-l ,-i ) 
 
--s -> For symbol table   
--l -> For literal table    
--i -> For intermediate table 
+**-s** -> For symbol table   
+**-l** -> For literal table    
+**-i** -> For intermediate table 
 
 When -i option is selected, 
-additional 'IntermediateTable.txt' file will be generated. 
+additional **'IntermediateTable.txt'** file will be generated. 
 This file contains the intermediate code.
 
 #
