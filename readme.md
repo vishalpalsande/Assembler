@@ -1,6 +1,6 @@
- This is one pass Assembler written in python.
+ # This is one pass Assembler written in python.
  
- this assembler generates files : 
+ ## this assembler generates files : 
   1.Symbol Table
   2.Literal Table
   3.Intermediate Code
@@ -22,3 +22,4 @@ When -i option is selected,
 additional 'IntermediateTable.txt' file will be generated. 
 This file contains the intermediate code.
 
+#
