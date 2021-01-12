@@ -1,9 +1,9 @@
  # This is one pass Assembler written in python.
  
  ## this assembler generates files : 
-  1.Symbol Table
-  2.Literal Table
-  3.Intermediate Code
+ #####1.Symbol Table
+ #####2.Literal Table
+ #####3.Intermediate Code
 
 > assembler.py is a main driver code. 
   
