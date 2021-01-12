@@ -1,13 +1,13 @@
  # Assembler(One Pass Assembler) 
  
  ## This assembler generates files : 
- ##### 1.Symbol Table
- ##### 2.Literal Table
- ##### 3.Intermediate Code
+ #### 1.Symbol Table
+ #### 2.Literal Table
+ #### 3.Intermediate Code
 
 #
 
-## Project Statistic
+## Project Statistic:
 
 **Platform** : Linux
 
